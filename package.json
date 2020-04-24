@@ -1,9 +1,12 @@
 {
-  "name": "name",
+  "name": "react-template",
   "version": "0.1.0",
-  "description": "",
+  "description": "Template repository for React project",
   "license": "MIT",
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/not-dev/react-template.git"
+  },
   "homepage": ".",
   "dependencies": {
     "react": "^16.13.1",
