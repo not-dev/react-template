@@ -2,7 +2,7 @@ English / [Japanese](./README_JP.md)
 
 <!-- ![](./res/) -->
 
-# nodejs-template
+# react-template
 
 Template repository for React project.
 
