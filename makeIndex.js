@@ -28,10 +28,7 @@ const makeIndexContent = (files) => {
   files.forEach((item) => {
     if (!excludes.includes(item)) {
       const file = item.split('.', 2)[0]
-      content += `\
-      export { default as ${file} } from './${file}'
-      export * from './${file}'
-      `.replace(/^\s+|(\n)\s+/g, '$1')
+      content += `export * from './${file}'`
     }
   })
   return content
