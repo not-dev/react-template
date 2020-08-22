@@ -6,6 +6,10 @@ English / [日本語](./README_JP.md)
 
 Template repository for React project.
 
+## Demo
+
+<https://not-dev.github.io/drawer-app-template/>
+
 ## Installation
 
 ```sh

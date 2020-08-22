@@ -6,6 +6,10 @@
 
 Reactプロジェクトのためのボイラープレート。
 
+## Demo
+
+<https://not-dev.github.io/drawer-app-template/>
+
 ## インストール
 
 ```sh
