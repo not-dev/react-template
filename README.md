@@ -15,7 +15,7 @@ git clone https://github.com/not-dev/react-template.git
 ## Usage
 
 ```sh
-npm i -f
+npm i
 npm start
 ```
 
