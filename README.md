@@ -2,18 +2,14 @@ English / [日本語](./README_JP.md)
 
 <!-- ![](./res/) -->
 
-# react-template
+# nodejs-template
 
-Template repository for React project.
-
-## Demo
-
-<https://not-dev.github.io/drawer-app-template/>
+Template repository for Node.js project.
 
 ## Installation
 
 ```sh
-git clone https://github.com/not-dev/react-template.git
+git clone https://github.com/not-dev/nodejs-template.git
 ```
 
 ## Usage

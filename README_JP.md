@@ -2,18 +2,14 @@
 
 <!-- ![](./res/) -->
 
-# react-template
+# nodejs-template
 
-Reactプロジェクトのためのボイラープレート。
-
-## Demo
-
-<https://not-dev.github.io/drawer-app-template/>
+Node.jsプロジェクトのためのボイラープレート。
 
 ## インストール
 
 ```sh
-git clone https://github.com/not-dev/react-template.git
+git clone https://github.com/not-dev/nodejs-template.git
 ```
 
 ## 使用方法
