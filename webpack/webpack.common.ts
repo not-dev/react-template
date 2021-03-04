@@ -38,6 +38,24 @@ const config:Configuration = {
       {
         test: /\.svg$/,
         use: ['@svgr/webpack']
+      },
+      {
+        test: /\.css/,
+        use: [
+          'style-loader',
+          {
+            loader: 'css-loader',
+            options: { url: false }
+          }
+        ]
+      },
+      {
+        test: /\.s[ac]ss$/i,
+        use: [
+          'style-loader',
+          'css-loader',
+          'sass-loader'
+        ]
       }
     ]
   },
